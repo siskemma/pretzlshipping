@@ -1,0 +1,58 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+/* font-family: 'Varela Round', sans-serif; */
+
+/* KEEP THESE STYLES */
+header {
+  padding: 154px 0 100px;
+  background-color: #8268CA;
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+section {
+  padding: 150px 0;
+}
+/* END OF KEEP THESE STYLES */
+
+
+/* my own, added styles: */
+
+nav {
+    background-color: #8268CA;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: #EFABFF;
+}
+
+h1 {
+    font-size: 4em;
+    font-family: 'Varela Round', sans-serif 
+}
+
+h3 {
+    font-size: 3em;
+    font-family: 'Varela Round', sans-serif;
+    padding-bottom: 1em;
+    padding-left: 2em;
+}
+
+p {
+    padding-left: 1em;
+}
+
+/* end of my own, added styles: */
